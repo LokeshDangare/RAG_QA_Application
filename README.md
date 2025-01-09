@@ -34,7 +34,7 @@ conda activate ragapps
 pip install -r requirements.txt
 ```
 
-### Create a `.env` file in the root directory and add your Google and Pinecone API keys as follow:
+### Create a `.env` file in the root directory and add your Google API keys as follow:
 
 ```ini
 GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxx"
